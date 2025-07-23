@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.page-width {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+
+.announcement_content {
+    text-align: center;
+    padding: 1%;
+    background-color: aquamarine;
+    font-size: x-large;
+}
+
+
+ul.nav-list {
+    display: flex;
+    gap: 3%;
+    list-style: none;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
